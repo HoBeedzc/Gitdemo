@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
 # ©copyright 1999-2020 Hobee. All rights reserved.
-# www.hobeedzc.com
+# Author:HoEee
+# Date:2020.03.19
+# More info:www.hobeedzc.com
 # mailto:LZQpublic@163.com
 # Never Settle
 
