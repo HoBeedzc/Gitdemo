@@ -23,3 +23,13 @@ def decision(x):
         return 1
     else:
         return 0
+
+class GitHubItem():
+    All_item = []
+    def __init__(self,author):
+        GitHubItem.All_item.append(self)
+        self.author = author
+        self.fork = 0
+        self.star = 0
+        self.watch = 0
+        self.quality = 0 # 取值范围[0,1],假设完全取决于开发者能力与以前开发项目数量，在小范围内以正太分布形式波动。
